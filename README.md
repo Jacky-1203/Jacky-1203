@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Ma HongLei
-- 👀 I’m interested in handsome giegie~~
-- 🌱 Hope everyone of you would like me!
-- 💞️ What I am learning now is how to makeup myself and turn to a beauity
-- 📫 You can connect to me through private message and I will be avaiable for every handsome giegie~~
+- 👋 Hi, I’m Jacky!
+- I have a son named LHH
+-I like Jackson Wang very much!
 
 <!---
 Jacky-1203/Jacky-1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
